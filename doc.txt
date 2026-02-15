@@ -1,0 +1,7 @@
+✅ Summary:
+
+Record	Purpose	Example
+MX	Incoming mail server	mail.mydomain.com
+SPF	Allowed sending servers	v=spf1 mx ~all
+DKIM	Email signing	default._domainkey.mydomain.com TXT with public key
+DMARC	Policy for failed emails	_dmarc.mydomain.com TXT
