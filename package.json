@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "nodemailer": "^7.0.10",
-    "smtp-server": "^3.16.1"
+    "nodemailer": "^8.0.4",
+    "smtp-server": "^3.18.3"
   }
 }
